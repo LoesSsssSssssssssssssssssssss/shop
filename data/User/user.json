@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "role":"byer",
+        "first_name": "Ivan",
+        "second_name": "Ivanon",
+        "phone_number": "89005559090",
+        "email": "kasfkak@mail.ru",
+        "password":"123",
+        "deleteIS": false
+    },
+    {
+        "user_id": 2,
+        "role":"manager",
+        "first_name": "Ivan",
+        "second_name": "Ivanon",
+        "phone_number": "89005559090",
+        "email": "kasfkak@mail.ru",
+        "password":"123",
+        "deleteIS": false
+    },
+    {
+        "user_id": 3,
+        "role":"seller",
+        "first_name": "Ivan",
+        "second_name": "Ivanon",
+        "phone_number": "89005559090",
+        "email": "kasfkak@mail.ru",
+        "password":"123",
+        "deleteIS": false
+    }
+]

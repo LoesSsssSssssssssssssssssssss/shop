@@ -1,0 +1,23 @@
+[
+    {
+        "product_id": 1,
+        "name": "comp",
+        "price": 1280,
+        "image": "./img.png",
+        "description": "sdfmdksfmsk"
+    },
+    {
+        "product_id": 2,
+        "name": "phone",
+        "price": 1280,
+        "image": "./img.png",
+        "description": "sdfmdksfmsk"
+    },
+    {
+        "product_id": 3,
+        "name": "tv",
+        "price": 1280,
+        "image": "./img.png",
+        "description": "sdfmdksfmsk"
+    }
+]

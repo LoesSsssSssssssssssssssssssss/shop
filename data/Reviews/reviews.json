@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "product_id": "product_id",
+        "rating": 10,
+        "comment": "sdflsdlsdlfsl"
+    },
+    {
+        "user_id": 2,
+        "product_id": "product_id",
+        "rating": 10,
+        "comment": "sdflsdlsdlfsl"
+    },
+    {
+        "user_id": 3,
+        "product_id": "product_id",
+        "rating": 10,
+        "comment": "sdflsdlsdlfsl"
+    },
+    {
+        "user_id": 4,
+        "product_id": "product_id",
+        "rating": 10,
+        "comment": "sdflsdlsdlfsl"
+    },
+    {
+        "user_id": 5,
+        "product_id": "product_id",
+        "rating": 10,
+        "comment": "sdflsdlsdlfsl"
+    }
+]
